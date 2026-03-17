@@ -1,8 +1,10 @@
 # Credit-Risk-Analysis-Machine-Learning-Model
-Credit Default Prediction using Responsible Machine Learning A data analytics and machine learning project focused on predicting credit default risk while prioritizing fairness, interpretability, and ethical AI practices.
+Credit Default Prediction using Responsible Machine Learning:
+A data analytics and machine learning project focused on predicting credit default risk while prioritizing fairness, interpretability, and ethical AI practices.
 
 ### Credit Default Prediction – Responsible AI Approach
 Project Overview
+
 This project explores credit default prediction using machine learning, with a strong emphasis on fairness, interpretability, and responsible AI.
 Rather than optimizing accuracy alone, the goal was to build a model that makes reliable predictions without disadvantaging demographic groups.
 
